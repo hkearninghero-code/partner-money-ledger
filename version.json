@@ -1,0 +1,6 @@
+{
+  "app": "Partner Money Ledger",
+  "version": "2.0.0",
+  "schemaVersion": 2,
+  "dataPolicy": "preserve-and-migrate"
+}
