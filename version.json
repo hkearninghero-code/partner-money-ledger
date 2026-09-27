@@ -1,6 +1,7 @@
 {
-  "app": "Partner Money Ledger",
-  "version": "2.0.0",
-  "schemaVersion": 2,
-  "dataPolicy": "preserve-and-migrate"
+  "version": "3.0.0",
+  "mode": "online",
+  "backend": "supabase",
+  "dataPolicy": "remote-database-with-local-backup",
+  "access": "admin-and-viewer"
 }
